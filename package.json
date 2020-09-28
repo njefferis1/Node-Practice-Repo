@@ -1,0 +1,24 @@
+{
+  "name": "node-practice-repo",
+  "version": "1.0.0",
+  "description": "september 28",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njefferis1/Node-Practice-Repo.git"
+  },
+  "author": "Nic Jefferis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njefferis1/Node-Practice-Repo/issues"
+  },
+  "homepage": "https://github.com/njefferis1/Node-Practice-Repo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
